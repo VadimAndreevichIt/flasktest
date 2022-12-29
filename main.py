@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
     return '''
     <htnl>
-        Привет!!!
+        Привет!!!!!!!!!!!!!!!!!!!!!!
     </html>
     '''
 
